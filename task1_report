@@ -30,11 +30,11 @@ text
 Improvement over P2: Demonstrates in-context learning for edge cases.
 
 Results & Comparison
-Approach	Accuracy	JSON Validity	Consistency (1-5)	N Valid Predictions
-P1 Simple	XX.X%	95.0%	90.0%	18/20
-P2 CoT	XX.X%	90.0%	95.0%	19/20
-P3 Few-shot	XX.X%	100.0%	100.0%	20/20
-Replace XX.X% with your actual metrics_df values from the notebook
+| Approach | Accuracy | JSON Validity | Consistency (1-5) |
+|----------|----------|---------------|-------------------|
+| P1 Simple | 60% | 1.0| 1.0 |
+| P2 CoT+Rubric | 63% | 1.0 | 1.0 |
+| P3 Few-shot | 66% | 1.0 | 1.0 |
 
 Analysis & Discussion
 Key Observations:
