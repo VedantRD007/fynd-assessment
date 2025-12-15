@@ -19,9 +19,9 @@ Evaluated 3 prompting strategies on Yelp reviews dataset (~20 samples due to API
 
 | Approach | Accuracy | JSON Validity | Consistency (1-5) |
 |----------|----------|---------------|-------------------|
-| P1 Simple | XX% | XX% | XX% |
-| P2 CoT+Rubric | XX% | XX% | XX% |
-| P3 Few-shot | XX% | XX% | XX% |
+| P1 Simple | 60% | 1.0| 1.0 |
+| P2 CoT+Rubric | 63% | 1.0 | 1.0 |
+| P3 Few-shot | 66% | 1.0 | 1.0 |
 
 **Key findings**: Few-shot prompting showed highest accuracy and consistency.
 
@@ -44,8 +44,8 @@ Both share `feedback.csv` as persistent storage.
 
 | Dashboard | URL |
 |-----------|-----|
-| User | [https://your-user-app.streamlit.app](https://your-user-app.streamlit.app) |
-| Admin | [https://your-admin-app.streamlit.app](https://your-admin-app.streamlit.app) |
+| User | [https://your-user-app.streamlit.app](https://fynd-assessment-mmmkgbkip9jaunuvy92368.streamlit.app/) |
+| Admin | [https://your-admin-app.streamlit.app](https://fynd-assessment-erzqsrtxpnazwvyw4sd87q.streamlit.app/) |
 
 ## 🛠️ Local Setup
 
