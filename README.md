@@ -82,7 +82,7 @@ text
 
 ## 📄 Report
 
-[Short Report PDF](https://github.com/yourusername/fynd-assessment/blob/main/report/report.pdf)
+[Short Report PDF](https://github.com/VedantRD007/fynd-assessment/blob/main/task1_report)
 
 **Approach Summary**:
 - Task 1: Implemented 3 prompting strategies (zero-shot, CoT, few-shot) with structured JSON evaluation
