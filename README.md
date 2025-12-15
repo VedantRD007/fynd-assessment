@@ -99,4 +99,4 @@ text
 
 ⭐ **Built for Fynd AI Intern Assessment**  
 📅 December 2025  
-👨‍💻 Vedant [your-github-username]
+👨‍💻 Vedant [VedantRD007]
